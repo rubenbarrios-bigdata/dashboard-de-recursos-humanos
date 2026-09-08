@@ -1,10 +1,11 @@
 # 📊 Reporte de Recursos Humanos – Power BI
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
+[![Ver Dashboard Interactivo](https://img.shields.io/badge/Power_BI-Ver_Dashboard_Interactivo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYTBhZjUyMmYtYjMwZi00YmUwLWE4ZDQtZWEwYWQ2MjU1ZTljIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)
+[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/rubenbarrios-bigdata)
+[![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)](https://github.com/rubenbarrios-bigdata)
 
-https://app.powerbi.com/groups/me/reports/56cff9aa-1f2e-481e-b4ae-432e294ea34c/02c551d346eaf7b05eb2?redirectedFromSignup=1&experience=power-bi
+> 🚀 **¡Demo interactiva en vivo!** Haz clic en el botón superior **"Ver Dashboard Interactivo"** para explorar el headcount, rotación, compensaciones y métricas de desempeño sin inicio de sesión ni software adicional.
+
 
 ---
 
